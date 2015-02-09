@@ -11,4 +11,4 @@ Original library
 Developed by
 ============
 
-* Martin Barto+n+n
+* Martin Bartoň
