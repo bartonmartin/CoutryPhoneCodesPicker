@@ -1,7 +1,7 @@
 CoutryPhoneCodesPicker
 =======
 
-Sample app gets today weather and next week forecast from World Weather Online API. It uses geolocation for determining current position of the device.
+This library extends AndoirdCountryPicker with phone codes functionality (original code from https://github.com/roomorama/AndroidCountryPicker)
 
 Original library
 ============
